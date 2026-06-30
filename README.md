@@ -98,7 +98,7 @@ dependencies = [
 
    *(Optional) To see the traditional ORM state-tracked version for comparison, you can run:*
    ```bash
-   python traditional_state_tracking..py
+   python traditional_state_tracking.py
    ```
 
 ---
